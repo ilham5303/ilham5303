@@ -42,18 +42,24 @@ I enjoy making systems more reliable, faster to deploy, and easier for teams to 
 
 ---
 
-<h3 align="center">📫 Connect with Me</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/ilham5303" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ilham5303" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ilham-sbibih" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/ilham5303" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-<a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40"/>
+  
+  <!-- Email -->
+  <a href="mailto:sbibih.ilham@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 <h3>⚡ Fun Facts</h3>
