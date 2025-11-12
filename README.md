@@ -1,21 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ilham Sbibih</h1>
-<h3 align="center">DevOps Engineer | AWS | Kubernetes Terraform | Jenkins | Docker | CI/CD Pipelines</h3>
-
----
-
-### 👨‍💻 About Me  
 
 I’m Ilham — a DevOps Engineer who started my journey in Chemistry before discovering my love for tech.  These days, I spend most of my time building and automating cloud environments with AWS, Terraform, Jenkins, Docker, and Kubernetes.  
 I enjoy making systems more reliable, faster to deploy, and easier for teams to work with. Whether it’s writing IaC, tweaking CI/CD pipelines, or experimenting with new tools, I love learning by doing and sharing what I learn along the way.
 
 ---
+## ⚡ A Bit About Me  
+
+
+- 🚀 DevOps Engineer passionate about automation and cloud.  
+- ☕ Coffee is my coding fuel, and travel ✈️ is my reset button.   
+- 💍 Married and living in Chicago, Illinois. 
+- 🌱 I believe in continuous learning, collaboration, and sharing knowledge with the DevOps community.     
+- 🛍️ Shopping and exploring new cities are my favorite ways to recharge.  
+
+
+---
 
 ### 🚀 What I’m Working On  
 
-- 🔭 **AWS CI/CD Automation** – building a full CI/CD pipeline on AWS using Jenkins, Docker, and Terraform.  
-- 👯 **Kubernetes Deployment Automation** – setting up automated app deployments with Helm and GitHub.  
-- 🤝 **Monitoring & Observability Setup** – improving monitoring with CloudWatch, Prometheus, and Grafana.  
-- ☁️ **AWS Architecture Deployment** – designing and deploying secure, scalable AWS infrastructures.  
+- Focusing on expanding my hands-on projects in cloud architecture and Kubernetes deployments.
+- Designing and optimizing CI/CD workflows.
+- Managing infrastructure as code with Terraform.
+- Improving monitoring and observability using CloudWatch, Prometheus, and Grafana.
+- Creating clear, practical documentation so others can understand, learn from, and build on my projects.
 
 ---
 <h3 align="center">🛠️ Languages and Tools</h3>
@@ -59,6 +66,4 @@ I enjoy making systems more reliable, faster to deploy, and easier for teams to 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
-
-
 
