@@ -61,20 +61,4 @@ I enjoy making systems more reliable, faster to deploy, and easier for teams to 
 </p>
 
 
----
-<h3>⚡ Fun Facts</h3>
-<p>
-  😄 ☸️ I like keeping my containers happy — Kubernetes is my playground for orchestration experiments.<br>
-  ☕ I run on coffee and code. Sometimes simultaneously.<br>
-  🤖 I enjoy turning manual processes into automated workflows — life’s too short for repetitive clicks!<br>
-  🌍 Always learning new tools and exploring technologies.
-</p>
-
-<hr>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilham5303&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham5303&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
 
